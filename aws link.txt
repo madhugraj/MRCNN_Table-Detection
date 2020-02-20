@@ -1,3 +1,6 @@
 https://s3.console.aws.amazon.com/s3/buckets/rcnntable/?region=ap-south-1&tab=overview
 
 https://rcnntable.s3.ap-south-1.amazonaws.com/mask_rcnn_table_0003.h5
+
+
+https://textyolodetection.s3.ap-south-1.amazonaws.com/mobilenet_v2_weights_tf_dim_ordering_tf_kernels_1.0_224_no_top.h5
